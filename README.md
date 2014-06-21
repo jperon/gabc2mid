@@ -15,7 +15,7 @@ Gabc2mid
 
 Ce script parcourt le code *gabc*, en extrait ce qui concerne la mélodie, et produit celle-ci sous la forme d'un fichier midi. Il peut aussi extraire le texte dans un fichier texte. La syntaxe est la suivante :
 
-gabc2mid.py -i \</chemin/vers/le/fichier/source.gabc\> [-o \</chemin/vers/le/fichier/destination.mid\>] [-e \</chemin/vers/le/fichier/destination.txt\>] [-t tempo] [-d transposition] [-a alerte]
+    gabc2mid.py -i \</chemin/vers/le/fichier/source.gabc\> [-o \</chemin/vers/le/fichier/destination.mid\>] [-e \</chemin/vers/le/fichier/destination.txt\>] [-t tempo] [-d transposition] [-a alerte]
 
 Seul le premier argument est obligatoire : tous les autres sont optionnels.
 
@@ -31,5 +31,5 @@ Si des alertes sont définies, gabc2mid renverra un message chaque fois qu'il d�
 
 Si vous ne voulez pas modifier les options par défaut, vous pouvez aussi utiliser la syntaxe suivante :
 
-gabc2mid.py \</chemin/vers/le/fichier/source.gabc\> [\</chemin/vers/le/fichier/destination.mid\>]
+    gabc2mid.py \</chemin/vers/le/fichier/source.gabc\> [\</chemin/vers/le/fichier/destination.mid\>]
 
