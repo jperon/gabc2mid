@@ -3,7 +3,7 @@ gabc2mid
 
 Conversion de gabc en midi.
 
-Attention : ce dépôt ne connaîtra plus que des corrections de bugs. Pour les développements subséquents du projet, voyez (gabctk)[https://github.com/jperon/gabctk].
+Attention : ce dépôt ne connaîtra plus que des corrections de bugs. Pour les développements subséquents du projet, voyez [gabctk](https://github.com/jperon/gabctk).
 
 [English Documentation](http://www.sspxusa.org/goodies/gabc2mid/)
 
